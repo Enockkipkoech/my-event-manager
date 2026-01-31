@@ -9,7 +9,7 @@ const Home = async () => {
         <main>
         <div className={"text-5xl underline"}>Node 5000 Development Track - Fullstack </div>
         <Hello/>
-            
+
                 { data }
 
 
